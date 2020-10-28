@@ -1,3 +1,4 @@
 # viking-template
-Real website about TV series "Vikings" converted from Figma\
-Click here to visit the website: https://andriikachmar.github.io/viking-template/index.html
+Real website about TV series "Vikings" converted from Figma
+To visit the website:
+[viking](https://andriikachmar.github.io/viking-template/index.html)
